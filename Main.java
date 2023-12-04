@@ -1,6 +1,6 @@
 
 // day - 1
-public class Main {
+public class Intro_to_Java  {
     public static void main(String[] args) {
         System.out.print("k"); // print statement
         System.out.print("k\n"); // print statement which uses new line after printing
