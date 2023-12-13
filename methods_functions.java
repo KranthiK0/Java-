@@ -7,10 +7,10 @@ public class methods_functions {
         message = " hello2 ";
         System.out.println(message.trim());
 
-//        System.out.printf(message);
+//        System.out.println(message);
         // sum();
 
-        String message1 = mygreet("kranthi");
+        String message1 = mygreet("  kranthi");
         System.out.println(message1.trim());
 //        methods_functions.mygreet("kranthi");
 
